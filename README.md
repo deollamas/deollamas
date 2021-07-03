@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @deollamas
 - 👀 I’m interested in earthquakes and active faults research
 - 🌱 I’m currently learning GMT and InSAR
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: deo.llamas@gmail.com
 
 <!---
